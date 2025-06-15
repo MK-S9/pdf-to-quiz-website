@@ -1,0 +1,4 @@
+services:
+  - type: static
+    name: pdf-to-quiz-website
+    staticPublishPath: .
